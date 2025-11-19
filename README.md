@@ -147,7 +147,7 @@ NGINX-Research-Project/
 A complete step-by-step guide containing explanations, configurations, and screenshots is included inside:
 
 ```
-Task2(Nginx Research.pdf
+Task2(Nginx Research).pdf
 ```
 
 This PDF contains detailed logs, rewrite rules, custom errors, rate limiting tests, SSL tests, and more.
